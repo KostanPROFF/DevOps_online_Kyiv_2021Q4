@@ -1,0 +1,15 @@
+7323344 (HEAD -> main, origin/styles, origin/main, origin/develop, origin/HEAD, styles, develop) HEAD@{0}: merge develop: Fast-forward
+1663448 HEAD@{1}: checkout: moving from develop to main
+7323344 (HEAD -> main, origin/styles, origin/main, origin/develop, origin/HEAD, styles, develop) HEAD@{2}: merge styles: Fast-forward
+85bc88c (origin/images, images) HEAD@{3}: merge images: Fast-forward
+6e4c929 HEAD@{4}: checkout: moving from styles to develop
+7323344 (HEAD -> main, origin/styles, origin/main, origin/develop, origin/HEAD, styles, develop) HEAD@{5}: commit: change index.html
+9b47d8a HEAD@{6}: commit: add styles
+85bc88c (origin/images, images) HEAD@{7}: checkout: moving from images to styles
+85bc88c (origin/images, images) HEAD@{8}: commit: change index.html
+c6c1c2b HEAD@{9}: commit: add images
+6e4c929 HEAD@{10}: checkout: moving from develop to images
+6e4c929 HEAD@{11}: commit: add index.html
+1663448 HEAD@{12}: checkout: moving from main to develop
+1663448 HEAD@{13}: commit: add readme.txt
+2b1d628 HEAD@{14}: clone: from https://github.com/KostanPROFF/DevOps_online_Kyiv_2021Q4.git
